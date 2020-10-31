@@ -1,3 +1,3 @@
 <?php
-include_once("movie-comp");
+include_once("movie-comp.html");
 ?>
